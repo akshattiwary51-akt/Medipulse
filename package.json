@@ -1,0 +1,8 @@
+{
+  "name": "mini_project",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev:frontend": "npm --prefix frontend run dev"
+  }
+}
